@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="580d9460-6774-4625-a9a6-0efb9f40c251" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Assets/Assets.xcassets/VirtualTourist_1024.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Assets/Assets.xcassets/VirtualTourist_1024.imageset/VirtualTourist_1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Assets/Assets.xcassets/VirtualTourist_120.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Assets/Assets.xcassets/VirtualTourist_120.imageset/VirtualTourist_120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Assets/Assets.xcassets/VirtualTourist_152.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Assets/Assets.xcassets/VirtualTourist_152.imageset/VirtualTourist_152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Assets/Assets.xcassets/VirtualTourist_180.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Assets/Assets.xcassets/VirtualTourist_180.imageset/VirtualTourist_180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Assets/Assets.xcassets/VirtualTourist_512.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Assets/Assets.xcassets/VirtualTourist_512.imageset/VirtualTourist_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Assets/Assets.xcassets/VirtualTourist_76.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Assets/Assets.xcassets/VirtualTourist_76.imageset/VirtualTourist_76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Controllers/ListDataSource.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Controllers/MapViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Controllers/PhotoViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Models/DataController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Models/Flickr/FlickrClient.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Models/Flickr/FlickrFailedResponse.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Models/Flickr/FlickrGetPhotosReponse.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Models/Flickr/FlickrPhoto.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Models/Flickr/FlickrPhotosPage.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Models/Photo+Extension.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Models/UserDefaultsKeys.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Models/VirtualTour.xcdatamodeld/VirtualTour.xcdatamodel/contents" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Views/Cell.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Virtual Tour/Views/PhotoCollectionViewCell.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual Tour.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Tour.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual Tour/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Tour/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual Tour/Assets/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Tour/Assets/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual Tour/Controllers/ViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual Tour/Model/Virtual_Tour.xcdatamodeld/.xccurrentversion" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual Tour/Model/Virtual_Tour.xcdatamodeld/Virtual_Tour.xcdatamodel/contents" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual Tour/SceneDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Tour/SceneDelegate.swift" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_47CDAF42-70F1-4C15-9CCD-0261A4047085" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1d9GrCi2UJOPNND4vID6uVPsesN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Virtual Tour" type="AppleRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Virtual Tour" TARGET_NAME="Virtual Tour" CONFIG_NAME="Debug" SCHEME_NAME="Virtual Tour" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" RUN_TARGET_PROJECT_NAME="Virtual Tour" RUN_TARGET_NAME="Virtual Tour" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <embedded_app_extension_list />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="580d9460-6774-4625-a9a6-0efb9f40c251" name="Default Changelist" comment="" />
+      <created>1591830091154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591830091154</updated>
+      <workItem from="1591830092633" duration="418000" />
+      <workItem from="1591839282903" duration="328000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2518" height="424" key="GridCell.Tab.0.bottom" timestamp="1591837946037">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="424" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1591837946037" />
+    <state width="2518" height="424" key="GridCell.Tab.0.center" timestamp="1591837946037">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="424" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1591837946037" />
+    <state width="2518" height="424" key="GridCell.Tab.0.left" timestamp="1591837946036">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="424" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1591837946036" />
+    <state width="2518" height="424" key="GridCell.Tab.0.right" timestamp="1591837946037">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="424" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1591837946037" />
+  </component>
+</project>
